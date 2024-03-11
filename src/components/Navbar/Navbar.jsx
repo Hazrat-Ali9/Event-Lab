@@ -4,6 +4,7 @@ import logo from '../../assets/logo (1).png';
 import { NavLink } from 'react-router-dom';
 import pImg from '../../assets/team6-02.jpg'
 
+// Navbar 
 const Navbar = () => {
   const { user, LogOut } = useContext(FirebaseContext);
   console.log(user);

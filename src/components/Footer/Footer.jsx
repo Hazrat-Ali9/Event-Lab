@@ -90,7 +90,7 @@ const Footer = () => {
 			</div>
 		</div>
 	</div>
-	<div className="py-6 text-sm text-center dark:text-gray-400">© Copyright 2024 EventLab| Design ByEgens Lab</div>
+	<div className="py-6 text-sm text-center dark:text-gray-400">© Copyright 2024 EventLab| Design By Egens Lab</div>
 </footer>
     </div>
   );
