@@ -7,6 +7,7 @@ import tImg5 from '../../assets/team5.jpeg';
 import tImg6 from '../../assets/team6-02.jpg';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+//Team
 
 const Team = () => {
 	useEffect(() => {
