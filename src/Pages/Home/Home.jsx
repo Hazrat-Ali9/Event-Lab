@@ -6,6 +6,8 @@ import Service from '../../components/Service/Service';
 import { useLoaderData } from 'react-router-dom';
 import Services from '../../components/Services/Services';
 
+// Home 
+
 const Home = () => {
   const services = useLoaderData()
   
