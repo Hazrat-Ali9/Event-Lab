@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useLoaderData, useParams } from 'react-router-dom';
-
+// Service 
 const ServiceDetails = () => {
   const [data, setData] = useState({});
   const {id} = useParams();
