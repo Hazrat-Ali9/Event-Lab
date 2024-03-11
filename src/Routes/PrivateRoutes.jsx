@@ -2,6 +2,8 @@ import React, { useContext } from 'react';
 import { FirebaseContext } from '../Context/AuthContext';
 import { Navigate, useLocation } from 'react-router-dom';
 
+
+// private Route 
 const PrivateRoutes = ({ children }) => {
   const location = useLocation();
   
