@@ -6,6 +6,8 @@ import img5 from '../../assets/s3.png';
 import img6 from '../../assets/s4.png';
 import img7 from '../../assets/s6.png';
 
+// Blogs 
+
 const Blog = () => {
   return (
     <div className=' py-20'>
