@@ -1,5 +1,5 @@
 import React from 'react';
-
+// Contact 
 const Contact = () => {
   return (
     <div className='py-24'>
