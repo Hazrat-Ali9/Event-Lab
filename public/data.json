@@ -1,0 +1,44 @@
+[
+  {
+    "id":"1",
+    "name": "Tech Innovators Summit",
+    "image": "https://i.ibb.co/17x57Nk/s1-png.png",
+    "price": "$500",
+    "description": "The Tech Innovators Summit is an annual gathering of visionaries, innovators, and industry leaders at the forefront of the technology revolution. With a rich history dating back to its inception, this conference has consistently provided a platform for the exchange of groundbreaking ideas, fostering collaboration, and driving technological advancement.At the heart of the Tech Innovators Summit is the commitment to exploring the latest trends in technology and how they impact our world. Whether you're a seasoned tech veteran or an emerging startup, this conference offers something for everyone. From in-depth technical sessions and hands-on workshops to thought-provoking keynote addresses, the summit is designed to inspire and inform"
+  },
+  {
+    "id":"2",
+    "name": "GreenTech Expo",
+    "image": "https://i.ibb.co/VCJc0Bb/s2.png",
+    "price": "$250",
+    "description": "The GreenTech Expo is a premier event dedicated to sustainability, environmental conservation, and the latest advancements in green technology. It serves as a vital platform for professionals, researchers, and eco-enthusiasts to come together and explore innovative solutions for a more sustainable future.As the world grapples with pressing environmental challenges such as climate change, deforestation, and resource depletion, the need for sustainable practices and technologies has never been more urgent. The GreenTech Expo addresses these challenges head-on by showcasing cutting-edge innovations in renewable energy, eco-friendly transportation, waste reduction, and more."
+  },
+  {
+    "id":"3",
+    "name": "Future of Healthcare Symposium",
+    "image": "https://i.ibb.co/fXFwrHS/s4.png",
+    "price": "$300",
+    "description": "The Future of Healthcare Symposium is a dynamic and forward-thinking conference dedicated to exploring the transformative trends, technologies, and strategies shaping the future of healthcare. In an era of rapid innovation, this symposium serves as a vital platform for healthcare professionals, researchers, and innovators to come together and chart a course for a healthier tomorrow.Healthcare is in the midst of a profound transformation, driven by advances in digital health, personalized medicine, telemedicine, and artificial intelligence. The Future of Healthcare Symposium delves into these disruptive forces and their potential to improve patient care, enhance clinical outcomes, and make healthcare more accessible and equitable."
+  },
+  {
+    "id":"4",
+    "name": "Global Entrepreneurship Summit",
+    "image": "https://i.ibb.co/44Jtkyc/s5.png",
+    "price": "$800",
+    "description": "The Global Entrepreneurship Summit (GES) is an annual gathering of entrepreneurs, investors, policymakers, and innovators from around the world. With a mission to foster innovation, create economic opportunities, and drive global prosperity, GES has established itself as a premier platform for entrepreneurship and collaboration.The summit brings together a diverse group of individuals, from seasoned entrepreneurs scaling their businesses to aspiring founders with groundbreaking ideas. It offers a unique opportunity to connect, learn, and explore avenues for growth in an ever-evolving entrepreneurial landscape."
+  },
+  {
+    "id":"5",
+    "name": "Education Excellence Conference",
+    "image": "https://i.ibb.co/6rCGR1L/s6.png",
+    "price": "$100",
+    "description": "The Education Excellence Conference is a prestigious gathering of educators, policymakers, researchers, and thought leaders dedicated to advancing education and learning in the 21st century. It serves as a platform for exchanging ideas, sharing best practices, and exploring innovative approaches to educational excellence.In today's rapidly changing world, education plays a pivotal role in shaping the future. The Education Excellence Conference acknowledges this significance and brings together a diverse community of professionals committed to delivering high-quality education at all levels."
+  },
+  {
+    "id":"6",
+    "name": "Social Media Marketing",
+    "image": "https://i.ibb.co/RBHDrFn/b1.png",
+    "price": "$400",
+    "description": "In the ever-evolving landscape of digital marketing, Social Media Marketing (SMM) has emerged as a powerful and indispensable tool for businesses and individuals alike. SMM is not merely a trend; it's a dynamic discipline that enables brands to connect with their target audience, build brand awareness, and drive engagement like never before.At its core, Social Media Marketing involves leveraging various social media platforms—such as Facebook, Instagram, Twitter, LinkedIn, and TikTok—to create and share content that resonates with a specific audience. This content can take various forms, from eye-catching visuals and informative articles to engaging videos and interactive stories. SMM professionals are adept at crafting compelling narratives and utilizing data-driven insights to tailor content to the preferences of their audience."
+  }
+]
