@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { FirebaseContext } from '../../Context/AuthContext';
 import Swal from 'sweetalert2'
 
-
+// SignUp 
 const SignUp = () => {
     const [error, setError] = useState('');
     const [passwordError, setPasswordError] = useState('');
