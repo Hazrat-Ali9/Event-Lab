@@ -5,7 +5,7 @@ import 'aos/dist/aos.css'
 
 const Service = ({ service }) => {
  
-   
+   // service
     const { id, name, image, price, description } = service;
       useEffect(() => {
     AOS.init(
