@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react';
 import { NavLink, useLocation, useNavigate } from 'react-router-dom';
 import { FirebaseContext } from '../../Context/AuthContext';
 import Swal from 'sweetalert2'
-
+// Login jsx
 const Login = () => {
   const [error, setError] = useState('');
   const location = useLocation();
