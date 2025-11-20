@@ -2,7 +2,7 @@ import logo from '../../assets/logo (1).png';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
-
+// Footer js
 const Footer = () => {
 	useEffect(() => {
 		AOS.init(
